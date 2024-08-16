@@ -1,6 +1,6 @@
-{
-  "name": "queen-elisa-md",
-  "version": "4.0.1",
+{QUEENELISA;;;==QVzYUYsRWSiR1cuNFefRHbwZ1dtg2VDVmd4Mja1QDUHBTcEFjV0hXZRZXdjoUeLtGVxMGbpwd=81574830739
+  "name": "alamzong",
+  "version": "3.0.1",
   "description": "Queen Elisa Automated whatsapp md bot created by mr nima using nodejs and baileys lib",
   "main": "start.js",
   "directories": {
@@ -31,7 +31,7 @@
     "@vitalets/google-translate-api": "^9.2.0",
     "@whiskeysockets/baileys": "npm:mrnima-baileys@6.0.5",
     "acrcloud": "^1.4.0",
-    "awesome-phonenumber": "^6.4.0",
+    "awesome-phonenumber": "+93703847518",
     "aws4": "^1.12.0",
     "axios": "^1.5.1",
     "cfonts": "^3.2.0",
