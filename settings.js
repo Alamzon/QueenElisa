@@ -53,7 +53,7 @@ module.exports = {
   INBOX_BLOCK_MSG_SEND: false,
   CMD_CORRECT: true,
   ANTI_CHANNEL_FORWARD: false,
-  ANTI_BOT: false,
+  ANTI_BOT: false,.
   BUTTON_MESSAGES: true,
   SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
   VIDEO_DOWNLOAD_TYPE: 'selectable', // video
