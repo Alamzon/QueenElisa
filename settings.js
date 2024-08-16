@@ -12,7 +12,7 @@ module.exports = {
 🟢 I am online still @uptime
 🔄 Response Delay : @ping Ms
 💻 Host : @host
-🪢 Version : @version
+🪢 Version : @version 
 
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
